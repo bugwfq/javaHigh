@@ -1,0 +1,5 @@
+<!ELEMENT userlist (user+)>
+<!ELEMENT user (name|addr)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT addr (#PCDATA)>
+

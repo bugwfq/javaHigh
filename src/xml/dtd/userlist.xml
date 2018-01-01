@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE userlist [
+<!ELEMENT userlist (user+)>  
+<!ELEMENT user (name,addr)>
+<!ATTLIST user id ID #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT addr (#PCDATA)>
+]>
+<userlist>
+	<user id="a1">
+		<name>
+		</name>
+		<addr>
+		</addr>
+	</user>
+	<user id="a2">
+		<name>
+		</name>
+		<addr>
+		</addr>
+	</user>
+</userlist>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><userlist>
+	<user id="1">
+		
+		<username>admin</username>
+		<password>admin</password>
+		
+		<addr>
+			<desc>sz</desc>
+		<code>518000</code></addr>
+	</user>
+	
+	<user id="2">
+		
+		<username>cc</username>
+		<password>cc</password>
+		<addr>
+			<desc>sz</desc>
+		<code>518000</code></addr>
+	</user>
+
+</userlist>
